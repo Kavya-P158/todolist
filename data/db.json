@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "item": "Learn coding",
+      "checked": true
+    },
+    {
+      "id": "3",
+      "item": "Learn a skill",
+      "checked": true
+    },
+    {
+      "id": "8626",
+      "item": "Read",
+      "checked": true
+    }
+  ]
+}
